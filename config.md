@@ -3,7 +3,6 @@ Add here global page variables to use throughout your
 website.
 The website_* must be defined for the RSS to work
 -->
-@def prepath = "jupy-smores"
 @def website_title = "Jupy Smores"
 @def website_descr = "A mashup of thoughts from a Pythonista learning Julia"
 
