@@ -1,4 +1,4 @@
-Sitemap: https:/pysplash.github.io/jupy-smores/sitemap.xml
+Sitemap: https:/pysplash.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
