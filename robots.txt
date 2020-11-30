@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: https://pyplash.github.io/jupy-smores/sitemap.xml
 
 User-agent: *
 Disallow:
