@@ -33,7 +33,7 @@ To get back to REPL, use backspace or Ctl-c.
 
 **Link to work:**
 
-Repo: https://github.com/pysplash/jupy-smores
+Repo: <https://github.com/pysplash/jupy-smores>
 - uses Franklin: SSG for Julia
 
 [Rendered site](https://pysplash.github.io/jupy-smores)
@@ -49,7 +49,7 @@ Explore the Julia website and ecosystem
 
 Joined:
 - Discourse
-- Julia D&I Slack https://discourse.julialang.org/t/diversity-and-inclusion-in-the-julia-community/50271
+- Julia D&I Slack <https://discourse.julialang.org/t/diversity-and-inclusion-in-the-julia-community/50271>
 
 Build Julia from source
 - Install gfortran using brew
@@ -65,9 +65,11 @@ sort and review packages and info about them.
 
 **Link to work:**
 
-Added 100 days of code log to Franklin SSG https://pysplash.github.io/jupy-smores/
+Added 100 days of code log to Franklin SSG <https://pysplash.github.io/jupy-smores/>
 
-![](static/images/julia-source-repl.png)
+Screenshot of julia build from source
+
+![](_assets/images/julia-source-repl.png)
 
 ---
 
