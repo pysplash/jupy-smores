@@ -3,6 +3,26 @@
 
 # 100 Days Of Code - Log
 
+## Day 3: 2020-12-01 Tuesday
+
+**Today's Progress:**
+
+- Worked on understanding IJulia, a Jupyter language kernel for Julia
+- Started working with Documenter.jl
+- Opened PRs on IJulia
+- Installed the [VS Code Julia extension](https://github.com/julia-vscode/julia-vscode)
+  
+**Thoughts:**
+
+Interesting use of toml files for requirements and versions. VS Code
+extension is a "must have" when working with Julia.
+
+**Link to work:**
+
+- Opened: https://github.com/JuliaLang/IJulia.jl/pull/966
+- Opened and merged: https://github.com/JuliaLang/IJulia.jl/pull/965
+- Troubleshooting using nteract and Julia 1.5.3: https://github.com/JuliaLang/IJulia.jl/issues/954
+
 ## Day 2: 2020-11-30 Monday
 
 **Today's Progress**:

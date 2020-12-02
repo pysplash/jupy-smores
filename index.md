@@ -14,6 +14,7 @@ The [log](log.md) has a chronology of my learning journey.
 
 - REPL -> Packaging: `]`
 - Packaging -> REPL: `backspace` key
+- Install the [VS Code Julia extension](https://github.com/julia-vscode/julia-vscode)
 
 ### Packages
 
