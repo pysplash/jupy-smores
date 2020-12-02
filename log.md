@@ -53,7 +53,7 @@ Added 100 days of code log to Franklin SSG <https://pysplash.github.io/jupy-smor
 
 Screenshot of julia build from source
 
-![](_assets/julia-source-repl.png)
+![](/assets/julia-source-repl.png)
 
 ## Day 1: 2020-11-29 Sunday
 
