@@ -19,9 +19,9 @@ extension is a "must have" when working with Julia.
 
 **Link to work:**
 
-- Opened: https://github.com/JuliaLang/IJulia.jl/pull/966
-- Opened and merged: https://github.com/JuliaLang/IJulia.jl/pull/965
-- Troubleshooting using nteract and Julia 1.5.3: https://github.com/JuliaLang/IJulia.jl/issues/954
+- Opened: <https://github.com/JuliaLang/IJulia.jl/pull/966>
+- Opened and merged: <https://github.com/JuliaLang/IJulia.jl/pull/965>
+- Troubleshooting using nteract and Julia 1.5.3: <https://github.com/JuliaLang/IJulia.jl/issues/954>
 
 ## Day 2: 2020-11-30 Monday
 
